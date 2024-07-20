@@ -1,5 +1,9 @@
+<video width="640" height="360" controls>
+  <source src="https://github.com/HirushiniChandrasoma/HirushiniChandrasoma/blob/main/images/work.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <h1 align="center">Hi 👋, I'm Hirushini Rashmika Chandrasoma</h1>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <h3 align="center">A passionate Software developer from Sri Lanka. Venturing into the Infinite Realm of Technology.</h3>
 
 - 🌱 I’m currently learning **Flutter, React Native, Android, IOS**
