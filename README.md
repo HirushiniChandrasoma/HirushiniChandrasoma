@@ -1,7 +1,6 @@
-<video width="640" height="360" controls>
-  <source src="https://github.com/HirushiniChandrasoma/HirushiniChandrasoma/blob/main/images/work.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+ <div style="text-align: right;">
+  <img src="https://raw.githubusercontent.com/HirushiniChandrasoma/HirushiniChandrasoma/main/images/code.jpg" width="500" height="250">
+</div>
 
 <h1 align="center">Hi 👋, I'm Hirushini Rashmika Chandrasoma</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka. Venturing into the Infinite Realm of Technology.</h3>
