@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hirushini Rashmika Chandrasoma</h1>
-<h3 align="center">A passionate Software developer from Sri Lanka. Venturing into the Infinite Realm of Technology</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+<h3 align="center">A passionate Software developer from Sri Lanka. Venturing into the Infinite Realm of Technology.</h3>
 
 - 🌱 I’m currently learning **Flutter, React Native, Android, IOS**
 
