@@ -1,14 +1,28 @@
 <h1 align="center">Hi 👋, I'm Hirushini Rashmika Chandrasoma</h1>
+
+<div align="center">
 <h3 align="center">A passionate Software developer from Sri Lanka. Venturing into the Infinite Realm of Technology.</h3>
- <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/HirushiniChandrasoma/HirushiniChandrasoma/main/images/code.jpg" width="500" height="250"/>
- </div>
+</div>
 
 - 🌱 I’m currently learning **Flutter, React Native, Android, IOS**
 
 - 🎓 I’m an **undergraduate at SLIIT**
 
-- 📫 How to reach me **hirushinirashmika.c@gmail.com**
+<div align="left">
+  <a href="https://www.twitch.tv/yourusername" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.gg/yourserver" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:hirushinirashmika.c@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/hirushini-chandrasoma-abb8a7314" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 
 <h3 align="left">Skills:</h3>
@@ -94,6 +108,7 @@
 
  </p>
 <br>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirushinichandrasoma&show_icons=true&locale=en&layout=compact" alt="hirushinichandrasoma" /></p>
 
